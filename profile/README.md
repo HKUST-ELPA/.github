@@ -19,9 +19,9 @@ HKUST-ELPA 是面向香港科技大学（HKUST）及香港科技大学（广州�
 欢迎分享备考经验、补充和纠正题库内容，或参与网站开发与日常维护。
 
 - [分享题目与经验](https://hkust-elpa.github.io/submit.html)
-- [提交问题与建议](https://github.com/HKUST-ELPA/HKUST-ELPA-Site-Source/issues)
-- [参与代码贡献](https://github.com/HKUST-ELPA/HKUST-ELPA-Site-Source/pulls)
-- [查看网站源码](https://github.com/HKUST-ELPA/HKUST-ELPA-Site-Source)
+- [提交问题与建议](https://github.com/HKUST-ELPA/HKUST-ELPA/issues)
+- [参与代码贡献](https://github.com/HKUST-ELPA/HKUST-ELPA/pulls)
+- [查看网站源码](https://github.com/HKUST-ELPA/HKUST-ELPA)
 
 请勿在公开投稿中提供姓名、学号、联系方式等个人信息。
 
